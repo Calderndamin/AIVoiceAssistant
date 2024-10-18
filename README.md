@@ -6,9 +6,9 @@ This system captures voice input, processes it using speech-to-text and text-to-
 
 ## Demos:
 
-![Demo 1](https://youtube.com/shorts/IsUdmKDf1kA?si=Vv6fq5fXpZ6G2A-9)
+Demo 1: [https://youtube.com/shorts/IsUdmKDf1kA?si=Vv6fq5fXpZ6G2A-9](https://youtube.com/shorts/gPlnsf50PME?si=kEAio97HvDRlV12F)
 
-![Demo 2](https://www.youtube.com/shorts/IsUdmKDf1kA)
+Demo 2: [https://www.youtube.com/shorts/IsUdmKDf1kA](https://youtube.com/shorts/IsUdmKDf1kA?si=7ZXOfnMnCJ4ZfEhU)
 
 ## Components
 
