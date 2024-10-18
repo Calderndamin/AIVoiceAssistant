@@ -4,6 +4,8 @@
 
 This system captures voice input, processes it using speech-to-text and text-to-speech services, and interacts with an OpenAI Language Model for advanced natural language understanding. The system employs **ESP32 microcontrollers** and Google APIs to perform the required tasks, transmitting data between hardware components and servers using Wi-Fi communication.
 
+![1723123960817](https://github.com/user-attachments/assets/ff99c31b-eec7-4b16-ac13-e8a6ae6297f3)
+
 ## Demos:
 
 Demo 1: [https://youtube.com/shorts/IsUdmKDf1kA?si=Vv6fq5fXpZ6G2A-9](https://youtube.com/shorts/gPlnsf50PME?si=kEAio97HvDRlV12F)
