@@ -67,6 +67,7 @@ void loop() {
         } 
 
       Serial.println("Updated result from UART: " + result);
+      //added a comment here
 
       // Play the audio
       Serial.println("Calling speech api...");
